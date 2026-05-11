@@ -1,2 +1,4 @@
 # My_Repository_Shan
-shannon
+hi shannon, how are you?
+This is your friend Kezi hehe
+selamat belajar
